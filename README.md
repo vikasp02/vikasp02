@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/vikas25195603" target="blank"><img src="https://img.shields.io/twitter/follow/vikas25195603?logo=twitter&style=for-the-badge" alt="vikas25195603" /></a> </p>
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"><img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 - 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **E-commerce App**
