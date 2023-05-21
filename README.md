@@ -9,7 +9,7 @@
 
 <em><strong>LATEST UPDATE:</strong></em>
 <i>Learning kotlin multiplatform &amp; jetpack compose :) </i>
-<g-emoji class="g-emoji" alias="man_student" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f393.png">👨‍🎓</g-emoji>
+
 
 - 👯 I’m looking to collaborate on **E-commerce App**
 
