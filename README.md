@@ -5,11 +5,11 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"><img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🌱 I’m currently learning **Angular**
+<!-- - 🌱 I’m currently learning **Angular** -->
 
 - 👯 I’m looking to collaborate on **E-commerce App**
 
-- 📫 How to reach me **vikas02199@gmail.com**
+- 📫 How to reach me **vikas.workjs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
