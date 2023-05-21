@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikas</h1>
+<h1 align="center">Hi There👋, I'm Vikas</h1>
 <h3 align="center">A Passionate Application Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasp02&label=Profile%20views&color=0e75b6&style=flat" alt="vikasp02" /> </p>
@@ -6,6 +6,8 @@
 <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"><img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
  -->
 <!-- - 🌱 I’m currently learning **Angular** -->
+
+<strong>LATEST UPDATE:</strong>
 
 - 👯 I’m looking to collaborate on **E-commerce App**
 
